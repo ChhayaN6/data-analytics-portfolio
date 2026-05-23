@@ -17,7 +17,7 @@ I enjoy working with data to uncover trends, create visualizations, and support 
 **Tools:** Excel, SQL  
 **Skills:** Data cleaning, pivot tables, aggregation queries  
 
-📌 *Coming soon*
+📌 *Coming soon
 
 ---
 
@@ -31,11 +31,11 @@ I enjoy working with data to uncover trends, create visualizations, and support 
 ---
 
 ### 3️⃣ Sales Dashboard (Power BI)
-**Objective:** Build an interactive dashboard to track KPIs and sales performance.  
+**Objective:** Build an interactive dashboard to track KPIs and Startup and Investment performance
 **Tools:** Power BI  
 **Skills:** Dashboard design, KPIs, filters  
 
-📌 *Coming soon*
+
 
 ---
 

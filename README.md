@@ -10,7 +10,7 @@ I enjoy working with data to uncover trends, create visualizations, and support 
 
 ---
 
-## 📂 Projects
+## 📂 Projects:
 
 ### 1️⃣ Retail Sales Analysis (Excel & SQL)
 **Objective:** Analyze retail sales data to identify trends, top-performing products, and regional performance.  
